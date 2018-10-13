@@ -12,4 +12,4 @@ At this time, only Microsoft Windows platforms are supported.
   * [N3tstat IDS Overview](https://drive.google.com/open?id=1KHjN51AvoFJiQ_Xz7guSLbs9BgeaZRTc)
   * [N3tstat IDS Introduction Demo](https://www.youtube.com/watch?v=14pTenY9ayQ)
   * [N3tstat IDS Demo - Detection of ACT PowerShell Tools](https://youtu.be/TKyIADfkEME)
-  * [N3tstat IDS Download](../../releases/tag/v0.93.5)
+  * [N3tstat IDS Download](../../releases/tag/v0.93.6)
