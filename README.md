@@ -3,6 +3,8 @@ N3tstat IDS is a lightweight Endpoint Detection &amp; Response (EDR) framework s
 
 N3tstat IDS is comprised of 3 primary components: 1) an agent running on endpoint systems, 2) a server for collecting and recording agent results, and 3) a GUI analyzer for presenting a holistic view of endpoint activities. Endpoint system beacon information (which includes network sessions and associated Registry Internet Registry and DNS information, processes, and users) and relevant event log entries associated with APT Indicators of Attack (IoAs) such as lateral movement, establishing persistence, and detection evasion are continuously collected and analyzed at the agent and results are securely transmitted to the server. Results consist of flagged network sessions having characteristics resembling those of malware beacons employed by an APT and specific event log entries associated with APT IoAs.
 
+Easily export all collected endpoint data to your SIEM solution of choice for further correlation and analysis with data collected from other security products. 
+
 At this time, only Microsoft Windows platforms are supported.
 
 
