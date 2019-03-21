@@ -12,11 +12,23 @@ At this time, only Microsoft Windows platforms are supported.
 # NEW Enhancement - 13 MAR 2019
 New reporting interface added to N3tstat IDS Analyzer and made available in the latest release providing additional analysis and reporting capabilities.
 
-![Reporter 1](Images/Reporter-01.PNG)
+Click on reporting icon pointed to by the green arrow
 
-![Reporter 2](Images/Reporter-02.PNG)
+<p align="center">
+<img width="50%" height="50%" src="Images/Reporter-01.PNG">
+</p>
 
-![Reporter 3](Images/Reporter-03.PNG)
+Built-in reports interface
+
+<p align="center">
+<img width="50%" height="50%" src="Images/Reporter-02.PNG">
+</p>
+
+Custom reports interface
+
+<p align="center">
+<img width="70%" height="70%" src="Images/Reporter-05.PNG">
+</p>
 
 # Resources
   * [N3tstat IDS Overview](https://drive.google.com/open?id=1KHjN51AvoFJiQ_Xz7guSLbs9BgeaZRTc)
