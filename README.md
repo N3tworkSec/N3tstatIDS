@@ -9,6 +9,14 @@ N3tstat IDS is comprised of 3 primary components: 1) an agent that runs on endpo
 
 At this time, only Microsoft Windows platforms are supported.
 
+# NEW Enhancement - 16 SEP 2019
+Agent now collects endpoint information to include computer system (e.g. hostname, workgroup, domain, manufacturer, model, etc.) and operating system (name, version, architecture, build type, etc.) information which is made available via reporting interface.
+
+<p align="center">
+<img width="50%" height="50%" src="Images/Reporter-08.PNG">
+</p>
+
+
 # NEW Enhancement - 13 MAR 2019
 New reporting interface added to N3tstat IDS Analyzer and made available in the latest release providing additional analysis and reporting capabilities.
 
