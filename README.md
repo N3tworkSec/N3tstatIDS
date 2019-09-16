@@ -1,7 +1,7 @@
 # N3tstat IDS
 N3tstat IDS is a lightweight Endpoint Detection &amp; Response (EDR) framework specifically designed for real-time Advanced Persistent Threat (APT) detection. N3tstat IDS provides APT detection capabilities not present in legacy Intrusion Detection System (IDS) solutions and offers the visibility required by cyber security analysts and network defenders to perform proactive threat hunting. 
 
-  * [N3tstat IDS Latest Release Download](../../releases/tag/v0.93.8)
+  * [N3tstat IDS Latest Release Download](../../releases/tag/v0.93.9)
 
 N3tstat IDS utilizes beacon detection and analysis as its primary detection mechanism. High fidelity, context-based beacon detection capabilities start at the endpoint through the continuous collection of process and associated network session information that is analyzed in order to identify anomalous endpoint behavior. Processes like powershell.exe running under SYSTEM and beaconing out to a foreign registered IP address can be readily identified with N3tstat IDS. Determining what processes and users are accessing a remote system over time can lead to the initial detection of malware and associated IOAs such as code execution, privilege escalation, establishing persistence, process migration, lateral movement, and command & control (C&C).  
 
